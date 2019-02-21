@@ -1,4 +1,4 @@
-The following is a coding challenge that I have completed in this repo. Check out `api/managed-records.js` for the code that I've written to solve the problem!
+The following is the coding challenge that I have completed in this repo. Check out `api/managed-records.js` for the code that I've written to solve the problem!
 
 # Fetch
 
